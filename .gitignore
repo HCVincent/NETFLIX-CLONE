@@ -24,3 +24,4 @@ yarn-error.log*
 
 /netflix-ui/node_modules
 /notes
+/netflix-ui/src/assets
